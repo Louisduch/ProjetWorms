@@ -1,0 +1,41 @@
+*{
+    font-family: Lucida Sans Unicode;
+    color: darkslategrey;
+    box-sizing: content-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px
+}
+
+body{
+    background-color: dimgrey;
+    text-align: center;
+}
+
+.menu-row li{
+    display: inline;
+}
+
+.menu-row li a{
+    text-decoration: none;
+}
+
+#main-content{
+    text-align: left;
+    position: relative;
+    padding-bottom: 120px;
+}
+
+nav{
+    border: 4px solid black;
+    background-color: deepskyblue;
+}
+
+body #page{
+    background-color: yellow;
+    border: 4px solid black;
+    display: inline-block;
+    width: 960px;
+    text-align: center;
+
+}
